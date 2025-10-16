@@ -1,4 +1,5 @@
-.LCvenv/
+.LVenv/
+.env/
 __pycache__/
 *.pyc
 *.ipynb_checkpoints
@@ -6,3 +7,4 @@ indexes/
 models/
 hf_cache/
 .env
+.LVenv
